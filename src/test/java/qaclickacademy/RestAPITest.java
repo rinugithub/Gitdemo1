@@ -8,6 +8,8 @@ public class RestAPITest {
 	public void posjira()
 	{
 		System.out.println("posjira");
+		System.out.println("posjira1");
+		System.out.println("posjira2");
 	}
 	@Test
 	public void deletetwitter()
