@@ -8,11 +8,13 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+System.out.println("BrowserAutomation X did ");
 	}
 	@Test
 	public void elementsUi()
 	{
 		System.out.println("elementsUi");
+System.out.println("elementsUi X did ");
 	}
 
 }
