@@ -8,6 +8,12 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAndroid");
 	}
+	
+	@Test
+	public void NativeAndroid1()
+	{
+		System.out.println("NativeAndroid branch 1 -develop");
+	}
 	@Test
 	public void IOSapps()
 	{

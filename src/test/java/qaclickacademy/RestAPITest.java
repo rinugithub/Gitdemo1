@@ -18,4 +18,11 @@ public class RestAPITest {
 		System.out.println("deletetwitter");
 	System.out.println("posjira4  X did ");
 	}
+	
+	public void deletetwitter1()
+	{
+		System.out.println("deletetwitter");
+	System.out.println("posjira4  X did ");
+	System.out.println("branhc test - develop");
+	}
 }
